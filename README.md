@@ -1,5 +1,5 @@
 # Portfolio website
 Hello...👋
-I am Prasanth...😊
+I am Mohana Prakash...😊
 
-Know more 👉 https://prasanth-pk12.github.io/portfolio/
+Know more 👉 https://mohanaprakash-23.github.io/portfolio/
